@@ -1,2 +1,2 @@
 # html-resume
-Made my Resume using only HTML
+My Resume made using HTML only.
